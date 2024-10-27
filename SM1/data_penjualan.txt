@@ -1,0 +1,5 @@
+BRG01	cola	10	10000	
+BRG02	air	8	5000	
+BRG03	susu	2	7000	
+BRG04	kopi	3	1000	
+BRG17	coffe	5	3000	
